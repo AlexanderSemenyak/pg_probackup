@@ -1,3 +1,6 @@
+origin: https://github.com/postgrespro/pg_probackup
+habr: pg_probackup 3.0 https://habr.com/ru/companies/postgrespro/articles/884432/
+
 [![GitHub release](https://img.shields.io/github/v/release/postgrespro/pg_probackup?include_prereleases)](https://github.com/postgrespro/pg_probackup/releases/latest)
 [![Build Status](https://travis-ci.com/postgrespro/pg_probackup.svg?branch=master)](https://travis-ci.com/postgrespro/pg_probackup)
 
